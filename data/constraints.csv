@@ -1,0 +1,9 @@
+constraint_type,value,unit,description
+total_budget,18000000.0,USD,Total available budget for all service lines
+max_headcount_growth,25.0,Percentage,Maximum year-over-year headcount growth
+min_cash_runway_months,18.0,Months,Minimum cash runway to maintain
+max_single_service_allocation,4000000.0,USD,Maximum budget for any single service line
+min_roi_threshold,1.5,Ratio,Minimum acceptable ROI for funded projects
+min_funded_projects,6.0,Count,Minimum number of service lines to fund
+target_utilization,75.0,Percentage,Target team utilization rate
+max_contractor_pct,20.0,Percentage,Maximum percentage of workforce as contractors

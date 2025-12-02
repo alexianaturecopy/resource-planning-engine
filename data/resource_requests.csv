@@ -1,0 +1,11 @@
+service_line,budget_requested,min_viable_budget,expected_roi,strategic_priority,success_probability,rationale,expected_return,roi_score
+Digital Marketing Campaigns,3500000,2000000,2.8,5,0.85,"Core revenue driver, proven ROI, high client demand",9800000.0,11.9
+Marketing Automation,2800000,1500000,3.2,5,0.9,"High-margin service, recurring revenue potential, strategic differentiator",8960000.0,14.4
+Brand Strategy,2200000,1200000,2.4,4,0.8,"Premium positioning, attracts enterprise clients",5280000.0,7.68
+E-Commerce Optimization,3000000,1800000,2.9,5,0.88,"Growing market, high conversion rates, technical expertise",8700000.0,12.76
+Content Marketing,1800000,1000000,2.2,3,0.75,"Supports other services, builds brand authority",3960000.0000000005,4.95
+Social Media Management,1500000,800000,1.9,3,0.7,"Lower margins, competitive market, client acquisition tool",2850000.0,3.9899999999999993
+Email Marketing,1200000,600000,3.5,4,0.92,"Highest ROI, automated delivery, scalable",4200000.0,12.88
+SEO/SEM Services,2500000,1500000,2.6,4,0.82,"Long-term value, recurring revenue, competitive advantage",6500000.0,8.528
+Analytics & Reporting,1500000,900000,2.0,3,0.85,"Client retention tool, upsell opportunity",3000000.0,5.1
+Client Success,1800000,1200000,1.8,4,0.9,"Critical for retention, reduces churn, enables expansion",3240000.0,6.48
