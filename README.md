@@ -2,7 +2,7 @@
 
 **Strategic Resource Allocation & Process Optimization for B2B Services**
 
-🔗 **[VIEW LIVE DASHBOARD](your-streamlit-url.streamlit.app)** (Deploy to get your URL)
+🔗 **[VIEW LIVE DASHBOARD](https://resource-planning-engine-epcrgav6lzf9x4t2oxklbi.streamlit.app/)** (Deploy to get your URL)
 
 ![Status](https://img.shields.io/badge/Status-Production_Ready-success)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
