@@ -309,10 +309,10 @@ Then navigate to: http://localhost:8501
 
 Check out my other portfolio projects demonstrating CFO capabilities:
 
-- **[Executive Operations Dashboard](github.com/alexianaturecopy/yequan-operation-finance--transformation)** - Multi-unit P&L tracking
-- **[Automation Transformation Framework](../automation-transformation)** - Process automation ROI
-- **[Financial ML Models](../financial-ml-models)** - Credit scoring, revenue forecasting, churn prediction
-- **[Crypto Treasury Dashboard](../crypto-treasury-dashboard)** - Web3 finance operations
+- **[Executive Operations Dashboard](https://github.com/alexianaturecopy/yequan-operation-finance--transformation)** - Multi-unit P&L tracking
+- **[Automation Transformation Framework](https://github.com/alexianaturecopy/automation-transformation)** - Process automation ROI
+- **[Financial ML Models](https://github.com/alexianaturecopy/financial-ml-models)** - Credit scoring, revenue forecasting, churn prediction
+- **[Crypto Treasury Dashboard](https://github.com/alexianaturecopy/crypto-treasury-dashboard)** - Web3 finance operations
 
 ---
 
