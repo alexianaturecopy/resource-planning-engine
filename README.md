@@ -305,28 +305,6 @@ Then navigate to: http://localhost:8501
 
 ---
 
-## For Interviews
-
-### Q: "How do you approach resource allocation?"
-
-**Answer:**
-> "I built a resource planning engine that uses constraint-based optimization to maximize ROI. Rather than political budget negotiations or historical-based allocation, it uses linear programming (PuLP library) to find the optimal distribution.
->
-> For example, with $18M to allocate across 10 service lines requesting $21.8M, the optimization identifies which combination maximizes expected returns while meeting strategic constraints. The result was a 2.7x blended ROI vs 2.3x with equal allocation - an extra $7.2M in expected value.
->
-> The tool also includes driver-based planning models that connect revenue goals to resource requirements, scenario analysis for different growth cases, and Six Sigma process improvement tracking. It's on my GitHub with working code."
-
-### Q: "Tell me about process improvement work you've led."
-
-**Answer:**
-> "I integrated Six Sigma methodology into our resource planning to improve operational efficiency. The dashboard tracks DMAIC progress - we defined critical quality characteristics (onboarding time, defect rate, satisfaction), measured current state (21 days, 8%, 4.2/5), analyzed root causes using Pareto analysis, and designed improvements.
->
-> The key insight: top 3 defect causes represented 81% of all issues. By focusing on those - unclear requirements, resource allocation, and scope control - we projected reducing defects from 8% to 3%, saving $280K annually.
->
-> The dashboard includes control charts for real-time monitoring and automated alerts when processes drift out of spec. It demonstrates how I combine strategic finance with operational excellence."
-
----
-
 ## Related Projects
 
 Check out my other portfolio projects demonstrating CFO capabilities:
@@ -393,22 +371,4 @@ CFO | CPA | Venture Partner at Solaris Venture Partners
 - 📧 Email: alexianaturecopy@gmail.com
 - 🔗 GitHub: [https://github.com/alexianaturecopy](https://github.com/alexianaturecopy)
 
----
 
-## License
-
-MIT License - Free to use for learning and portfolio purposes
-
----
-
-## Acknowledgments
-
-**Business Problem Inspiration:** Real-world CFO experience managing multi-service agency resource allocation
-
-**Technical Stack:** Built with modern Python data science ecosystem
-
-**Methodologies:** Six Sigma DMAIC, Linear Programming, Driver-Based Planning
-
----
-
-*Portfolio Project - Demonstrating Strategic Finance + Operations Research + Process Improvement*
