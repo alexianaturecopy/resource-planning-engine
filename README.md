@@ -52,7 +52,7 @@ Built integrated planning engine that:
 
 ---
 
-## What This Demonstrates for CFO/COO Roles
+## What This Demonstrates 
 
 ### Strategic Capabilities Proven:
 
@@ -310,7 +310,7 @@ Then navigate to: http://localhost:8501
 Check out my other portfolio projects demonstrating CFO capabilities:
 
 - **[Executive Operations Dashboard](https://github.com/alexianaturecopy/yequan-operation-finance--transformation)** - Multi-unit P&L tracking
-- **[Automation Transformation Framework](https://github.com/alexianaturecopy/automation-transformation)** - Process automation ROI
+- **[Automation Transformation Framework](https://github.com/alexianaturecopy/automation-transformation-framework)** - Process automation ROI
 - **[Financial ML Models](https://github.com/alexianaturecopy/financial-ml-models)** - Credit scoring, revenue forecasting, churn prediction
 - **[Crypto Treasury Dashboard](https://github.com/alexianaturecopy/crypto-treasury-dashboard)** - Web3 finance operations
 
